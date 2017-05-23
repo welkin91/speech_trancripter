@@ -6,3 +6,5 @@ The bigger the file size, the longer the Api takes to respond.
 
 The API also restricts input files. 
 For the purpose of this assignment, i am accepting only .flac files.  
+
+** In order to run this module, u need to clean(sbt clean), run the process(sbt run)
