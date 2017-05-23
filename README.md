@@ -14,9 +14,6 @@ git clone {url} <br>
   <t>cd speech_trancripter<br>
   <t>sbt;<br>
     <t><t>clean;<br>
-    <t><t>run 9090;<br>
+    <t><t>run 9000;<br>
 
-Make sure you have running your Speech Trancripter before you run this project.
-
-Make sure while setting up a google cloud account you also set up a service account and generate a Credential JSON. Use the local path of this JSON file as the value of env variable GOOGLE_AAPLICATION_CREDENTIALS.
-
+Make sure while setting up a google cloud account you also set up a service account and generate a Credential JSON. Use the local path of this JSON file as the value of env variable GOOGLE_APPLICATION_CREDENTIALS.
