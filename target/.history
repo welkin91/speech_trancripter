@@ -1,0 +1,8 @@
+run 8080
+run 9036
+run 8080
+run 9036
+clean
+run 9036
+run 9090
+run 9000
